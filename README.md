@@ -1,4 +1,4 @@
-# Upgrad-Assignment
+## Upgrad-Assignment
 # Lead Scoring case study
 Hello, upGrad team
 I am submitting my lead schooling project, which consist of three files
