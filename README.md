@@ -1,5 +1,5 @@
-## Upgrad-Assignment
-# Lead Scoring case study
+# Upgrad-Assignment
+## Lead Scoring case study
 Hello, upGrad team
 I am submitting my lead schooling project, which consist of three files
 1. There is a CSV file, which is the original data set.
